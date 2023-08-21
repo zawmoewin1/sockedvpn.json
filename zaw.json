@@ -1,0 +1,40 @@
+{
+ "Version": "1.0.0",
+ "ReleaseNotes": "thank you",
+ "ReleaseNotes1": "",
+ "Servers": [
+  {
+   "Name": "Singapore",
+   "FLAG": "fast.png",
+   "ServerIP": "sg8vip30.sshstores.vip",
+   "ServerPort": "143",
+   "SSLPort": "445",
+   "ProxyPort": "8080",
+   "ServerUser": "sshstores-Zawmodeh",
+   "ServerPass": "88889999",
+   "sInfo": "true",
+   "Slowchave": "",
+   "Nameserver": "true",
+   "servermessage": "thank",
+   "Sfrep": ""
+  }
+ ],
+ "Networks": [
+  {
+   "Name": "true",
+   "Payload": "www.opensignal.com",
+   "SNI": "www.opensignal.com",
+   "pInfo": "www.opensignal.com",
+   "Slowdns": "",
+   "WebProxy": "",
+   "WebPort": "",
+   "isHatok": false,
+   "isSSL": false,
+   "isPayloadSSL": true,
+   "isInject": false,
+   "isDirect": false,
+   "isSlow": false,
+   "isWeb": false
+  }
+ ]
+}
